@@ -1,4 +1,2 @@
 # WebConference
-Aplicação web para gerir uma conferência
-
-Primeiro Alteração!
+Aplicação web para gerir uma conferência.
