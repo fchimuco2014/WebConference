@@ -10,7 +10,13 @@
         "name": "Paulina Jamba"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "Use Case Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Francisco Chimuco"
   }
 }
