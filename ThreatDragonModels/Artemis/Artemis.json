@@ -5,14 +5,12 @@
     "description": "Á plataforma Ártemis é uma aplicação Web moderna para a gestão da empresa Ártemis, SA baseada na arquitetura cliente e servidor. Para o seu desenvolvimento, usar-se-ão o HTML5 para o lado do cliente e o PHP e MySQL para o lado do servidor."
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [
+    "contributors": [
       {
-        "title": "Use Case Diagram",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
+        "name": "Paulina Jamba"
       }
     ],
+    "diagrams": [],
     "reviewer": "Francisco Chimuco"
   }
 }
